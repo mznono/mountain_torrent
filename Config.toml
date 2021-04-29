@@ -1,5 +1,1 @@
 qos = 1
-mqtt_host = "tcp://comm.jiangheyun.com:1883"
-client_id = "00019237000000000001"
-user_name = "余姚山洪灾害"
-password = "shzh123456"
