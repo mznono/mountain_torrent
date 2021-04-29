@@ -1,4 +1,4 @@
 [global.databases]
-mountain_torrents = { url = "postgres://jhxx:maozhinu@localhost/mountain_torrents"}
+mountain_torrents = { url = ""}
 [global]
 port = 8080
